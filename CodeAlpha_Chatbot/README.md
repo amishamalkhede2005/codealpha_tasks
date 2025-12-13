@@ -37,3 +37,11 @@ The chatbot will reply based on rules you added.
 
 Chatbot.java (main code)
 
+👩‍🎓 Author
+
+Created for academic and learning purposes.
+
+📜 License
+
+This project is free to use for **educational purposes**
+
