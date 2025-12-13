@@ -1,19 +1,19 @@
-ChatBot-Assignment
+##ChatBot-Assignment
 
-Rule-Based Chatbot using Java
+##Rule-Based Chatbot using Java
 
-📌 Project Description
+##📌 Project Description
 
 This project is a simple rule-based chatbot created using Java.
 It responds to basic user questions using predefined keywords and conditional logic.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 Java
 
 Rule-based logic (if–else conditions)
 
-▶️ How to Run
+##▶️ How to Run
 
 Open the project in NetBeans or any Java IDE.
 
@@ -23,7 +23,7 @@ Type your questions in the console.
 
 The chatbot will reply based on rules you added.
 
-💬 Example Questions
+##💬 Example Questions
 
 "hello"
 
@@ -33,7 +33,7 @@ The chatbot will reply based on rules you added.
 
 "bye"
 
-📁 Files Included
+##📁 Files Included
 
 Chatbot.java (main code)
 
