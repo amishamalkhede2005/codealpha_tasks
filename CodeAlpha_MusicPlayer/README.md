@@ -1,4 +1,4 @@
-🎵 Music Player using JavaScript
+**🎵 Music Player using JavaScript**
 
 This project is a simple and interactive Music Player built using HTML, CSS, and JavaScript.
 It allows users to play audio files, control playback, adjust volume, and view song details through a clean and modern interface.
